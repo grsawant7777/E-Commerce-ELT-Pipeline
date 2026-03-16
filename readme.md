@@ -4,8 +4,8 @@
 
 ### Project Status: Complete | Production Ready
 
-| Skill | Technology | Badge |
-| --- | --- | --- |
+| Skill | Technology |
+| --- | --- | 
 | **Orchestration** | Apache Airflow 2.7.2 |
 | **Data Warehouse** | PostgreSQL 13-Alpine |
 | **Transformation** | dbt (Data Build Tool) 1.7.5 |
