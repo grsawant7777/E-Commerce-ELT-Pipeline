@@ -144,6 +144,4 @@ ecommerce-elt-dwh/
 ├── docker-compose.yml             <-- Multi-service Orchestration
 └── Dockerfile.airflow             <-- Custom Image (Airflow + dbt-postgres)
 
-```
 
-Would you like me to help you generate a `README.md` for your other projects, such as the **Healthcare 360 Lakehouse**?
